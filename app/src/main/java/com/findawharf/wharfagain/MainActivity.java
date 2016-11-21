@@ -1,4 +1,4 @@
-package com.findawharf.newwharf;
+package com.findawharf.wharfagain;
 
 import android.app.FragmentManager;
 import android.support.v4.widget.DrawerLayout;
